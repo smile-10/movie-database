@@ -1,2 +1,2 @@
-# Sql
+# movie
 A database for movie details
